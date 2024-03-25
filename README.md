@@ -1,15 +1,4 @@
-- 👋 Hi, I’m @jatnrin29
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-jatnrin29/jatnrin29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <div></div>
 <div class="site" id="page" style="display:flex;flex-direction:column;max-width:1120px;margin:0pxauto;background-color:#333333;color:#0000000;font-family:-apple-system,BlinkMacSystemFont,;text-align:center">
 <div class="bg-area" style="position:relative;background-color:#000000;color:#ffffff;text-align:center">
@@ -22,7 +11,10 @@ You can click the Preview link to take a look at your changes.
 <div class="row" style="margin-right:0px;margin-left:0px;text-align:center">
 <div class="col-md-12" style="position:relative;min-height:1px;padding-right:5px;padding-left:5px;text-align:center">
 <h3></h3>
-<h2 class="widget-title" style="margin-top:40px;margin-bottom:30px;font-family:Nunito,sans-serif;font-weight:800;line-height:27px;color:rgb(255,255,255);font-size:18px;letter-spacing:0.5px;text-transform:uppercase;font-style:normal;position:relative;padding-bottom:10px"> บันทึก resume:คุณเจตนรินทร์</h2><img class="wp-image-6269 alignnone size-full" src="https://jatnrinart.files.wordpress.com/2024/03/img_20240209_144449.jpg" style="border-radius:500px" width="1092" height="1092">
+<h2 class="widget-title" style="margin-top:40px;margin-bottom:30px;font-family:Nunito,sans-serif;font-weight:800;line-height:27px;color:rgb(255,255,255);font-size:18px;letter-spacing:0.5px;text-transform:uppercase;font-style:normal;position:relative;padding-bottom:10px"> บันทึก resume:คุณเจตนรินทร์</h2>
+	
+	
+ <img class="wp-image-6269 alignnone size-full" src="https://jatnrinart.files.wordpress.com/2024/03/img_20240209_144449.jpg" style="border-radius:500px" width="102" height="102">
 
 <h3></h3>
 <h2 class="widget-title" style="margin-top:20px;margin-bottom:30px;font-family:Nunito,sans-serif;font-weight:800;line-height:0px;color:rgb(255,255,255);font-size:18px;letter-spacing:0.5px;text-transform:uppercase;font-style:normal;position:relative;padding-bottom:10px"></h2>
